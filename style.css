@@ -1,0 +1,76 @@
+body {
+    background: linear-gradient(45deg, #5dbdff87, transparent);
+}
+
+.messageScreen {
+    margin-top: 14px;
+    height: 190px;
+    width: 70%;
+    background-color: #f4f4f4;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+.options {
+    color: white;
+}
+.status {
+    width: 29%;
+    color:white;
+
+}
+.ip-list {
+    right: 3%;
+    position: absolute;
+    margin-top: -18px;
+    height: 501px;
+    width: 195px;
+    border: 1px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.ip-frame {
+    right: 24%;
+    position: absolute;
+    height: 190px;
+    background-color: #9f9f9f75;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    top: 13px;
+}
+.cpanel {
+    height: auto;
+    width: 70%;
+    background-color: #f26f6f75;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+.messenger {
+    height: 200px;
+    width: 80%;
+    background-color: #f4f4f4;
+    border: 2px solid black;
+    border-radius: 7px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.messageContent {
+    height: 141px;
+    width: 392px;
+    border-radius: 11px;
+  }
+  .sendButton {
+    height: 40px;
+    margin: 3px;
+    width: 137px;
+    border: solid 2px black;
+    font-size: 12pt;
+  }
+.a {
+    font-weight : bold;
+  }
